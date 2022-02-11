@@ -1,4 +1,6 @@
 #!/bin/bash
+pkg install figlet -y
+figlet Sajib Locate v2.0
 # Sajib Locate v2.0
 # Coded by: rabiulsajib (You dont become a coder by just changing the credits)
 # Github: https://github.com/Hunterboy111/SLOCATE.git
@@ -379,7 +381,7 @@ printf "\e[1;93m (_)                             \e[0m\e[1;77m_                 
 printf "\e[1;77m  _        ___    ____  _____  _| |_  ___    ____  \e[0m\n"
 printf "\e[1;77m | |      / _ \  / ___)(____ |(_   _)/ _ \  / ___) \e[0m\n"
 printf "\e[1;77m | |_____| |_| |( (___ / ___ |  | |_| |_| || |     \e[0m\n"
-printf "\e[1;77m |_______)\___/  \____)\_____|   \__)\___/ |_|    v1.0 \e[0m\n"
+printf "\e[1;77m |_______)\___/  \____)\_____|   \__)\___/ |_|    v2.0 \e[0m\n"
 printf "\n"
 printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @rabiulsajib\e[0m\n"
 
